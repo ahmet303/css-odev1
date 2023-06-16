@@ -1,0 +1,21 @@
+body {
+   
+   background-color:#E4DCCF;
+   font-family: 'Roboto', sans-serif;
+   text-align: center;
+   color: #EA5455;
+}
+
+h2 {
+   color: #002B5B;
+   font-size: 18px;
+}
+
+nav {
+   font-size: 20px;
+}
+
+p {
+   color: #002B5B;
+   font-size: 18px;
+}
